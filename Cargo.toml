@@ -1,0 +1,12 @@
+[package]
+name = "rust_games"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ash = "0.38.0"
+derive_more = "0.99.18"
+dyn-clone = "1.0.17"
+ggez = "0.9.3-devel"
